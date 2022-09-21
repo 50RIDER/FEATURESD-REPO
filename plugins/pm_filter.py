@@ -754,13 +754,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('ᴅʏɴᴏ', callback_data='corona'),
             InlineKeyboardButton("ᴘɪɴ", callback_data='pin')
             ],[
-            InlineKeyboardButton('ɢᴀᴍᴇs', callback_data='fun'), 
-            InlineKeyboardButton('ғᴏɴᴛ', callback_data='fond'),
+            InlineKeyboardButton('ᴜʀʟ sʜᴏʀᴛ', callback_data='urlshort'), 
+            InlineKeyboardButton('ᴘɪɴɢ', callback_data='pings'),
             InlineKeyboardButton('ɢ ᴛʀᴀɴs', callback_data='gtrans')
-            ],[
-            InlineKeyboardButton('ᴜʀʟ sʜᴏʀᴛ', callback_data='urlshort'),
-            InlineKeyboardButton('ᴘɪɴɢ', callback_data='pings'),            
-            InlineKeyboardButton('sᴛɪᴄᴋᴇʀ ɪᴅ', callback_data='sticker')
             ],[
             InlineKeyboardButton('ʜᴏᴍᴇ', callback_data='start'),
             InlineKeyboardButton('sᴛᴀᴛᴜs', callback_data='stats')
